@@ -1,0 +1,55 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/*
+  
+ It's an initiative for knowing the people behind a website. 
+ It's a TXT file that contains information about the different people who have contributed to building the website. 
+ 
+ */
+
+
+/* TEAM */
+  WebApps Trainer: Jalal Hejazi ( a Member of SuperUsers.dk )
+  Site: SuperWebApps.dk
+  Twitter: @JalalHejazi
+  Location: Denmark
+
+/* THANKS */
+  
+  Google Pete LePage  (http://petelepage.com/blog/about/biography/)
+  John Resig (http://ejohn.org/about/)
+  
+  
+
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery, Bootstrap, Ember, moment, lawnchair
+  Software: Aptana Studio 3 on Mac  / Visual Studio 2012 on Win 8
+
+
+
+                               -o/-
+                               +oo//-
+                              :ooo+//:
+                             -ooooo///-
+                             /oooooo//:
+                            :ooooooo+//-
+                           -+oooooooo///-
+           -://////////////+oooooooooo++////////////::
+            :+ooooooooooooooooooooooooooooooooooooo+:::-
+              -/+ooooooooooooooooooooooooooooooo+/::////:-
+                -:+oooooooooooooooooooooooooooo/::///////:-
+                  --/+ooooooooooooooooooooo+::://////:-
+                     -:+ooooooooooooooooo+:://////:--
+                       /ooooooooooooooooo+//////:-
+                      -ooooooooooooooooooo////-
+                      /ooooooooo+oooooooooo//:
+                     :ooooooo+/::/+oooooooo+//-
+                    -oooooo/::///////+oooooo///-
+                    /ooo+::://////:---:/+oooo//:
+                   -o+/::///////:-      -:/+o+//-
+                   :-:///////:-            -:/://
+                     -////:-                 --//:
+                       --                       -:
